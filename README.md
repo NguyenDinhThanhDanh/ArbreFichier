@@ -1,6 +1,6 @@
 # ArbreFichier
 
-The aim of this project is to simulate a file system from linux with that will be execute via console. The commands that are included are:
+The aim of this project is to simulate a file system from linux which will be execute via console. The commands that are included are:
 mkdir 
 less 
 find 
